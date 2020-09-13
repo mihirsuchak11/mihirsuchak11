@@ -20,9 +20,9 @@ I have 3 years of experience in react js. I have done BBA in my bachelor however
 
 <br/>
 
-[![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirsuchak11&show_icons=true&theme=radical)](https://github.com/mihirsuchak11/github-readme-stats)
+[![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirsuchak11&show_icons=true&theme=radical)](https://github.com/mihirsuchak11)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsuchak11&show_icons=true&theme=radical)](https://github.com/mihirsuchak11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsuchak11&show_icons=true&theme=radical)](https://github.com/mihirsuchak11)
 
 
 #### Find me around the web 🌎:
