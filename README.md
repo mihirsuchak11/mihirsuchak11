@@ -1,4 +1,4 @@
-### Namastey, I'm Mihir Suchak 👋
+### Namastey, I'm Mihir Suchak 🙏
 
 ---
 
