@@ -2,11 +2,11 @@
 
 ---
 
-I have 3 years of experience in react js. I have done BBA in my bachelor however I made up my career in IT. I am passionate about coding and IT technology and I got inspired by my elder brother. I am a self-learning person and motivated towards my personal and professional growth. I also believe in 100% satisfied work delivery and user-friendly latest technology.
+I have 6+ years of experience as a Frontend Engineer and love working with frameworks like React and Vue. I have done BBA in my bachelor, however I made up my career in IT. I have worked for a product based startups like Docthub, and also for well established service based company like YML.
 
 #### 👨🏻‍💻 I'm a Front end developer based in Ahmedabad, India.
 
-- 🏢 I'm currently working part-time in each company **Docthub** && **Ventive**
+- 🏢 I'm currently working full time in YML as a Senior Frontend Engineer.
 - ⚙️ I use daily: `.ts`,`.js`,`.html`, `.scss`, `.svg`, `.png`
 - 🌱 Learning more about: **Algorithms && Data Structures**
 - 😄 Passionate about accessibility and committed to a web that works for everyone
