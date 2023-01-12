@@ -13,7 +13,7 @@ I have 3 years of experience in react js. I have done BBA in my bachelor however
 
 #### 👨🏻‍💻 Tech Stack
 
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Bootstrap | ReactJS | TypeScript | GraphQl | NextJS
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Bootstrap | ReactJS | TypeScript | GraphQL | NextJS | Nuxt 3 | Webpack 5
 - 🛢 &nbsp; Basic MongoDB & NodeJS
 - 🔧 &nbsp; Git
 - 🖥 &nbsp; Photoshop
