@@ -2,11 +2,11 @@
 
 ---
 
-I have 6+ years of experience as a Frontend Engineer and love working with frameworks like React, Next, and Vue. I have done BBA in my bachelor, however I made up my career in IT. I have worked for a product based startups like Docthub, and currently working for well established service based company like YML.
+I have 9+ years of experience as a Frontend Engineer and love working with frameworks like React, Next, and Vue. I completed a BBA, but I built my career in IT. I have worked for product-based startups like Docthub and am currently working for a well-established service-based company like YML.
 
-#### 👨🏻‍💻 I'm a Front end developer based in Ahmedabad, India.
+#### 👨🏻‍💻 I'm a front-end developer based in Ahmedabad, India.
 
-- 🏢 I'm currently working full time in YML as a Senior Frontend Engineer.
+- 🏢 I'm currently working full-time at YML as a Senior Frontend Engineer.
 - ⚙️ I use daily: `.ts`,`.js`,`.html`, `.scss`, `.svg`, `.png`
 - 🌱 Learning more about: **Algorithms && Data Structures**
 - 😄 Passionate about accessibility and committed to a web that works for everyone
